@@ -40,3 +40,16 @@
 </div>
 
 <br/><br /><br />
+
+<div align="center">
+  <h2>My GitHub Stats</h2>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Devarshpat17">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarshpat17&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
