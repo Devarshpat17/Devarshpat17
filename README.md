@@ -14,7 +14,7 @@
  
 🌱 I’m currently learning *Rust, C# and TYPESCRIPT*
     
-✨Python developer, Game Development enthusiast
+✨Python developer, Game Dev enthusiast
 
 📍 Location: *India* 
 <div> 
